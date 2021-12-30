@@ -7,7 +7,7 @@ const DUMMY_PLACES = [
   {
     id: 'p1',
     title: 'Empire State Building',
-    description: 'One of the most famous sky scrappers in the world',
+    description: 'One of the most famous sky scrappers in the world!!!',
     imageUrl: 'https://www.thoughtco.com/thmb/6NX8SEKwn3qmJbAd9N6avAImSbc=/1777x1333/smart/filters:no_upscale()/187410874_HighRes-resize-56a48d293df78cf77282efa6.jpg',
     address: '20 W 34th St, New York, NY 10001, United States',
     location: {
@@ -18,7 +18,7 @@ const DUMMY_PLACES = [
   },
   {
     id: 'p2',
-    title: 'Empire State Building',
+    title: 'Emp. State Building',
     description: 'One of the most famous sky scrappers in the world',
     imageUrl: 'https://www.thoughtco.com/thmb/6NX8SEKwn3qmJbAd9N6avAImSbc=/1777x1333/smart/filters:no_upscale()/187410874_HighRes-resize-56a48d293df78cf77282efa6.jpg',
     address: '20 W 34th St, New York, NY 10001, United States',
